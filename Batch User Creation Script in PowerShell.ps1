@@ -1,4 +1,4 @@
-$datos = Get-Content C:\Users\lliurex-admin\Desktop\usuarios.txt
+$datos = Get-Content C:\Users\user\Desktop\users.txt
 
 $pass = Read-Host "Introduce una contraseña para los usuarios" -AsSecureString
 

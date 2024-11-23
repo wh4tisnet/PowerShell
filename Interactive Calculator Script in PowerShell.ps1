@@ -35,7 +35,6 @@ switch ($operation) {
         $div
     }
     5 {
-        #Finalizar el programa :)
         break
     }
 }

@@ -1,4 +1,4 @@
-# Ejercicios Básicos de JavaScript
+# Ejercicios Básicos de PowerShell
 
 Este repositorio contiene una colección de scripts básicos de PowerShell para tareas como crear y eliminar usuarios, realizar operaciones matemáticas simples y más.
 
